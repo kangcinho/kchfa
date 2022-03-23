@@ -1,0 +1,4 @@
+export const YEAR_DATA = 'YEAR_DATA'
+export const CREATE_YEAR_DATA = 'CREATE_YEAR_DATA'
+export const SET_YEAR_DATA = 'SET_YEAR_DATA'
+export const DELETE_YEAR_DATA = 'DELETE_YEAR_DATA'
